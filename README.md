@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @gitJanaeW
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MongoDB and React
+- 👀 I’m a full-stack web developer
+- 🌱 I’m currently interested in learning webpack
 - 📫 Reach me at:
 janae.wel@gmail.com
 
