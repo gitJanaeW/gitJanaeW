@@ -6,7 +6,7 @@
 
 
 <br/>
-<p align="center">I'm a recent Carleton University Bootcamp graduate seeking employment! 👩🏾‍🎓</p>
+<p align="center">I'm a recent Carleton University Full-Stack Web Development Bootcamp graduate seeking employment! 👩🏾‍🎓</p>
 
 <p align="center">Reach out to me about how I can be an asset to your dev team.</p>
 <br />
