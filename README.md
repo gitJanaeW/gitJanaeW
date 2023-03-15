@@ -7,7 +7,7 @@
 
 <p align="center">Currently, I'm working as a Coding Bootcamp Teaching Assistant for EdX. As a recent full stack web development bootcamp graduate myself, I'm always interest in hearing more about new and exciting tech employment opportunities! 🤓</p>
 
-<p align="center">✨ Reach out to me about how I can be an asset to your dev team. ✨</p>
+<p align="center">✨ Reach out to me about how I can be an asset to your team. ✨</p>
 <br />
 <br/>
 
