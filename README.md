@@ -1,6 +1,6 @@
 <h1 align="center" >👋🏾 Hey! I'm Janae.</h1>
 
-<p align="center">JavaScript, Node, GraphQL</p>
+<p align="center">JavaScript, Node, GraphQL, SQL</p>
 <br/>
 
 <!---
